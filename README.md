@@ -31,7 +31,6 @@ Use cv2.imshow to show the video.
 End the program and close the output video window by pressing 'q'.
 
 ## Program:
- Python
 ### Developed By: Ashwin Kumar S
 ### Register No: 212222240013
 
