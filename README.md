@@ -31,8 +31,8 @@ Use cv2.imshow to show the video.
 End the program and close the output video window by pressing 'q'.
 
 ## Program:
-### Developed By: Ashwin Kumar S
-### Register No: 212222240013
+### Developed By: SENTHAMIL SELVAN G
+### Register No: 212222230139
 
 ## i) Write the frame as JPG file
 ```
@@ -108,21 +108,21 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-![1](https://github.com/user-attachments/assets/0402e7ce-65e3-4939-8e33-3c4ab565bec8)
+![Screenshot 2024-09-25 154622](https://github.com/user-attachments/assets/f48776e9-89ba-4922-ae9c-31b32505ff24)
 
 
 ### ii) Display the video
 
-![1](https://github.com/user-attachments/assets/104b5718-3c90-4366-8c80-441af70fd6ba)
+![Screenshot 2024-09-25 152648](https://github.com/user-attachments/assets/e509c979-d647-4ffb-a635-711796725753)
 
 
 ### iii) Display the video by resizing the window
-![2](https://github.com/user-attachments/assets/5729aadf-3df5-4734-9eec-7116890d353f)
+![Screenshot 2024-09-25 152949](https://github.com/user-attachments/assets/41778382-ab12-4b69-a693-ac1df663ae56)
 
 
 
 ### iv) Rotate and display the video
-![3](https://github.com/user-attachments/assets/16828ec8-dd0f-48e6-9fbb-ec2955188154)
+![Screenshot 2024-09-25 153238](https://github.com/user-attachments/assets/0ec65723-684d-441d-8318-5ec688d2baf6)
 
 
 
